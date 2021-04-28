@@ -1,0 +1,13 @@
+{
+    "status": "done",
+    "publicPath": "http://127.0.0.1:8000/",
+    "chunks": {
+        "app": [
+            {
+                "name": "bundle.js",
+                "publicPath": "http://127.0.0.1:8000/bundle.js",
+                "path": "/code/frontend/dist/bundle.js"
+            }
+        ]
+    }
+}
